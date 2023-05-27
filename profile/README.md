@@ -1,1 +1,1 @@
-# Test
+![StumpInside](/StumpInside.png)
